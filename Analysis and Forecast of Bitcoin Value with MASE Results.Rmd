@@ -10,8 +10,6 @@ output:
 
 ### Student Details
 
-* Abhay Rao (S3649215)
-* Dilip Chandra (S3574580)
 * Saurabh Mallik (S3623575)
 
 </br>
